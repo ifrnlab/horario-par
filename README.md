@@ -7,7 +7,7 @@ Horário do IFRN campus Parnamirim
 
    ```zsh
    for m ({01..12})
-      cp calendario-2022.svg calendario-2022-$m.sv
+      cp calendario-2022.svg calendario-2022-$m.svg
    ```
    
 2. Editar as imagens geradas no Inkscape:
