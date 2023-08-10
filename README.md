@@ -19,7 +19,7 @@ Horário do IFRN campus Parnamirim
    
       1. `!`: Inverter a seleção
       2. `Delete`: Apagar os outros meses
-      3. `Ctrl`+`Shift`+`R`: Encaixar página (ou canvas) à seleção [1^]
+      3. `Ctrl`+`Shift`+`R`: Encaixar página (ou canvas) à seleção [^1]
       4. `Ctrl`+`S`: Salvar
 
-[1^]: <https://stackoverflow.com/questions/46195427/inkscape-fit-page-to-selection-shortcut>
+[^1]: <https://stackoverflow.com/questions/46195427/inkscape-fit-page-to-selection-shortcut>
